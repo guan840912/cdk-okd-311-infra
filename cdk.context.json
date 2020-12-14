@@ -1,0 +1,8 @@
+{
+  "availability-zones:account=295273672130:region=ap-northeast-1": [
+    "ap-northeast-1a",
+    "ap-northeast-1c",
+    "ap-northeast-1d"
+  ],
+  "ami:account=295273672130:filters.image-type.0=machine:filters.name.0=*CentOS*:filters.product-code.0=aw0evgkw8e5c1q413zgy5pjce:filters.state.0=available:owners.0=aws-marketplace:region=ap-northeast-1": "ami-06a46da680048c8ae"
+}
