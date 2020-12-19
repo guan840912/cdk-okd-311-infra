@@ -2,4 +2,8 @@
 ### Need to change to your `key-pair` in `keyName: 'replace-your-key-pair-name'`
 
 
+
+
 inventory.ini
+```yaml
+```
