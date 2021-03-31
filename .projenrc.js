@@ -9,6 +9,8 @@ const project = new AwsCdkTypeScriptApp({
     '@aws-cdk/aws-route53-targets',
   ],
   dependabot: false,
+  defaultReleaseBranch: 'main',
 });
-
+const i = ['cdk.context.json', '.DS_Store'];
+project.gitignore.exclude(...i);
 project.synth();
